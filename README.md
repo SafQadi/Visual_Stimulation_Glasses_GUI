@@ -3,6 +3,25 @@
 # Visual_Stimulation_Glasses_GUI
 <br />
 
+## license
+<The Motion_Analysis Toolbox >
+    Copyright (C) <2008-2021>  <Dr. Safwan Al-Qadhi>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation version 3 of the License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+	Contact:	Dr. Safwan Al-Qadhi
+			Email: saf.qadi@gmail.com, 
+
 ## Description:
 The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that represents the functioning of One- and the Multi-Segment Glasses used for the visual stimulation. The GUI simulates real glasses made of LCD material. It shows the different stimulation paradigms programmed for both glasses. 
 <br />
