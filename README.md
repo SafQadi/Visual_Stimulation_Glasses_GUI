@@ -8,7 +8,7 @@ The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that
 <br />
 <br />
 
-![GitHub Logo](Visual_Stimulation_Glasses_MainWindow.png)
+![GitHub Logo](Readme-images/Visual_Stimulation_Glasses_MainWindow.png)
 
 <br />
 
@@ -17,7 +17,7 @@ In the Single or (One)-Segment glasses (OSG) each glass consists of only one seg
  <br />
  <br />
  
- ![GitHub Logo](Single_Stimulation_Glasses.png)
+ ![GitHub Logo](Readme-images/Single_Stimulation_Glasses.png)
  
 <br />
 
@@ -26,7 +26,7 @@ Each glass of the Multi-segment glasses consists of eight segments, four small i
  <br />
  <br />
  
- ![GitHub Logo](Multi_Stimulation_Glasses.png)
+ ![GitHub Logo](Readme-images/Multi_Stimulation_Glasses.png)
  
 <br />
 
