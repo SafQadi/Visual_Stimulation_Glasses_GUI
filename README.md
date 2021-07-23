@@ -4,7 +4,7 @@
 <br />
 
 ## Description:
-The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that represents the functioning of One- and the Multi-Segment Glasses used for the visual stimulation of human and animal eyes for medical studies. The GUI simulates real glasses made of LCD material developed at the research center Jülich, at the institute of neuronscience and medicin (INM), Germany. It shows the different stimulation paradigms programmed for both glasses. 
+The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that represents the functioning of One- and the Multi-Segment Glasses used for the visual stimulation. The GUI simulates real glasses made of LCD material. It shows the different stimulation paradigms programmed for both glasses. 
 <br />
 <br />
 
