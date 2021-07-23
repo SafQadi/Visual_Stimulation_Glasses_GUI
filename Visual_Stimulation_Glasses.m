@@ -9,7 +9,7 @@
 
 function varargout = Visual_Stimulation_Glasses(varargin)
 
-% The graphical user's interface (GUI) "Visual_Stimulation_Glasses" represents the functioning of the 
+% The MATLAB graphical user's interface (GUI) "Visual_Stimulation_Glasses" represents the functioning of the 
 % One- and the Multi-Segment Glasses used for the visual stimulation. It shows the different 
 % stimulation paradigms programmed for both glasses. In the One-Segment glasses two stimulation
 % patterns can be selected, which activate the stimulation glasses either in phase or out of
