@@ -4,6 +4,8 @@ The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that
 ## Single Segment Glasses (OSG)
  In the Single or (One)-Segment glasses (OSG) two stimulation patterns can be selected, which activate the stimulation glasses either in phase or out of phase. 
  The stimulation signal can be modulated by a cosine signal. The modulation signal frequency can be given in the input field labelled "Modulation". 
+ 
+ ![GitHub Logo](Visual_Stimulation_Glasses_MainWindow.png)
 
 ## Multi Segment Glasses (MSG)
  By the Multi-segment glasses, seven stimulation patterns are programmed in which the segments of the glasses are activated in different forms. 
