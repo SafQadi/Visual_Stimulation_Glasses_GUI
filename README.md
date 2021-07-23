@@ -1,6 +1,5 @@
 # Visual_Stimulation_Glasses_GUI
-The MATLAB graphical user's interface (GUI) "Visual_Stimulation_Glasses" represents the functioning of the One- and the Multi-Segment Glasses used for the visual stimulation.
-It shows the different stimulation paradigms programmed for both glasses. 
+The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that represents the functioning of One- and the Multi-Segment Glasses used for the visual stimulation of human and animal eyes for medical studies. The GUI simulates real glasses made of LCD material. It shows the different stimulation paradigms programmed for both glasses. 
 
 ## Single Segment Glasses (OSG)
  In the Single or (One)-Segment glasses (OSG) two stimulation patterns can be selected, which activate the stimulation glasses either in phase or out of phase. 
