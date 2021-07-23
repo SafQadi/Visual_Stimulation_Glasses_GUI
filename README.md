@@ -31,7 +31,6 @@ The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that
  ![GitHub Logo](Multi_Stimulation_Glasses.png)
  
 <br />
-<br />
 
 # Usage
 The Stimulation as well as the modulation signal frequencies can be given in the input field labelled "Stimulation" and "Modulation", respectively. <br />
