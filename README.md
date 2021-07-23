@@ -32,5 +32,7 @@ The "Visual_Stimulation_Glasses" GUI is a MATLAB graphical user's interface that
  
 <br />
 <br />
-The Stimulation as well as the modulation signal frequencies can be given in the input field labelled "Stimulation" and "Modulation", respectively. After pressing the "Start" button, the stimulation will be started. When changing the frequency of a signal or selecting another stimulation paradigm within one of the glasses, 
-the stimulation can be restarted with the "refrech" button with no need for pressing the "Start" button again. 
+# Usage
+The Stimulation as well as the modulation signal frequencies can be given in the input field labelled "Stimulation" and "Modulation", respectively. <br />
+After pressing the "Start" button, the stimulation will be started. When changing the frequency of a signal or selecting another stimulation paradigm<br />
+within one of the glasses, the stimulation can be restarted with the "refrech" button with no need for pressing the "Start" button again. 
