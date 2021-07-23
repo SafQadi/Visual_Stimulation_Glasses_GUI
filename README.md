@@ -30,5 +30,5 @@ Each glass of the Multi-segment glasses consists of eight segments, four small i
  
 <br />
 
-# Usage
+## Usage
 The Stimulation as well as the modulation signal frequencies can be given in the input field labelled "Stimulation" and "Modulation", respectively. After pressing the "Start" button, the stimulation will be started. When changing the frequency of a signal or selecting another stimulation paradigm within one of the glasses, the stimulation can be restarted with the "refrech" button with no need for pressing the "Start" button again. 
