@@ -49,5 +49,5 @@ The Stimulation as well as the modulation signal frequencies can be given in the
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-	Contact:	Dr. Safwan Al-Qadhi
+	Contact:	Safwan Al-Qadhi
 			Email: saf.qadi@gmail.com, 
