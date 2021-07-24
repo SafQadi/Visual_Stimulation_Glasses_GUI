@@ -50,4 +50,4 @@ The Stimulation as well as the modulation signal frequencies can be given in the
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 	Contact:	Safwan Al-Qadhi
-			Email: saf.qadi@gmail.com, 
+			Email: saf.qadi@gmail.com
